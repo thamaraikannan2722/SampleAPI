@@ -6,10 +6,6 @@ fastapi==0.110.0
 greenlet==3.0.3
 h11==0.14.0
 idna==3.6
-numpy==1.25.2
-opencv-contrib-python==4.8.0.76
-opencv-contrib-python-headless==4.8.0.76
-opencv-python-headless==4.8.0.76
 pydantic==2.6.3
 pydantic_core==2.16.3
 PyMySQL==1.1.0
